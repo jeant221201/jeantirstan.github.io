@@ -36,7 +36,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+theme: jekyll-theme-leap-day
 
 plugins:
   - jekyll-seo-tag
