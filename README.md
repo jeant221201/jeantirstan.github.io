@@ -1,1 +1,1 @@
-# jeantirstan.github.io
+Hanya beberapa **tulisan tangan** kok. Hmm :))
